@@ -1,1 +1,1 @@
-# Project1
+Graph algoritm in C++.
