@@ -1,3 +1,3 @@
-#Study assignment
+# Study assignment
 
 Graph algoritm in C++.
